@@ -55,7 +55,7 @@
 
 
 import React from "react";
-import illustration from "../assets/illustration.png";
+import Illustration from "../assets/Illustration.png";
 import Logotypes from "../assets/Logotypes.png";
 
 const Hero = () => {
@@ -82,8 +82,8 @@ const Hero = () => {
 
         {/* Right */}
         <img
-          src={illustration}
-          alt="illustration"
+          src={Illustration}
+          alt="Illustration"
           className="w-full max-w-md"
         />
 
