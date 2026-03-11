@@ -82,6 +82,7 @@ const Hero = () => {
 
         {/* Right */}
         <img
+ HEAD
           src={Illustration}
           alt="Illustration"
           className="w-full max-w-md"
